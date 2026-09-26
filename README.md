@@ -119,8 +119,8 @@ Results-driven **Software Engineer** with **3+ years of experience** building sc
 ### 📊 GitHub & Problem Solving Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codejaaz24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Syed's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejaaz24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codejaaz24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="Syed's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codejaaz24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
 </div>
 
 <p align="center">
