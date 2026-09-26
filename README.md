@@ -1,7 +1,7 @@
 <div align="center">
 
 # வணக்கம்! (Vanakkam) 🙏
-### Hello World from #24 #codejaaz
+### Hello World from #codejaaz(#24)
 
 <h1>Syed Mohideen Afridi</h1>
 
